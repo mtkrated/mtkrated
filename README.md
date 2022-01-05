@@ -1,6 +1,6 @@
 # Welcome
 
-Hi my name is Motheo Keneilwe, I'm a full-stack developer with an interest for learning new stuff. I love learning new programming languages, reading code.
+Welcome to my Github page, My name is Motheo (Pronunciation similar to Matheo) Keneilwe. I'm full-stack software developer with a passion for learning new programming languages. My goal for the year 2022 is to bo=uild a solid portfoilo on github by pushing more projects and trying to contribute more to opensource.
 
 ## Interests
 
@@ -12,14 +12,7 @@ I'm interested in the following:
 - Backend Development
 - League of Legends
 
-For front-end development besides vanilla Javascript, I use React haven't found the right time to try Vue which I'm also interested in.
-For backend development I use Node
-For mobile development I mainly use Flutter, used to work with Java before hence I'm also learning Kotlin
+I enjoy solving some DSA problems on Leetcode, Codeforces and hackerrank.
 
-## Learning
-
-I'm Currently learning the following:
-
-- Kotlin
-- Git & Github
-- Functional Programming
+## Other Profile
+[Madnyte](http://github.com/madnyte)
